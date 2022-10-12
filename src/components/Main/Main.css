@@ -1,0 +1,30 @@
+.Main{
+    
+     width: 100%;
+   padding-left: 10%;
+    background-color: aquamarine;
+   
+}
+.Main img{
+    width: 30%;
+    
+   margin: 2rem;
+   margin-left: -10%;
+    
+}
+.Main button{
+    margin-left: -12%;
+    width: 6rem;
+    background-color: rgb(3, 3, 75);
+    color: white;
+    height: 2rem;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px  blue;
+    cursor: pointer;
+    font-weight: 600;
+}
+ .Main button:hover{
+    width: 6.3rem;
+    height: 2.2rem;
+    background-color: rgb(30, 30, 247);
+ }
