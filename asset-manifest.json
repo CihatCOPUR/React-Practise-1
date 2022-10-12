@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CihatCOPUR/React-Practise-1/static/css/main.64e87d0a.css",
+    "main.js": "/CihatCOPUR/React-Practise-1/static/js/main.906aa8c4.js",
+    "static/js/787.95f61a02.chunk.js": "/CihatCOPUR/React-Practise-1/static/js/787.95f61a02.chunk.js",
+    "index.html": "/CihatCOPUR/React-Practise-1/index.html",
+    "main.64e87d0a.css.map": "/CihatCOPUR/React-Practise-1/static/css/main.64e87d0a.css.map",
+    "main.906aa8c4.js.map": "/CihatCOPUR/React-Practise-1/static/js/main.906aa8c4.js.map",
+    "787.95f61a02.chunk.js.map": "/CihatCOPUR/React-Practise-1/static/js/787.95f61a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64e87d0a.css",
+    "static/js/main.906aa8c4.js"
+  ]
+}
